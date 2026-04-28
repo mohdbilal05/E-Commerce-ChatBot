@@ -1,0 +1,8 @@
+streamlit
+semantic-router
+sentence-transformers
+chromadb
+groq
+pandas
+python-dotenv
+tf-keras
