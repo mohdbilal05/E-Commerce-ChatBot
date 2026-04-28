@@ -1,8 +1,11 @@
 streamlit
 semantic-router
 sentence-transformers
-chromadb
+chromadb==0.4.24
 groq
 pandas
 python-dotenv
 tf-keras
+protobuf==4.25.3
+opentelemetry-sdk==1.24.0
+opentelemetry-exporter-otlp-proto-grpc==1.24.0
